@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Maxime !
+<img src="./assets/header.svg" width="100%" alt="Maxime Maréchal">
 
-### 💻 Développeur Full-Stack
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Développeur+Full-Stack;Applications+Web+%26+Logiciels;Python+%7C+C%23+%7C+PHP+%7C+JavaScript;Toujours+en+train+d'apprendre+et+de+construire" alt="Typing animation"/>
+## 👋 Salut, moi c'est Maxime !
+
+### Développeur Full-Stack • Applications Web & Logiciels
 
 </div>
 
@@ -12,46 +14,52 @@
 
 ## 🧑‍💻 À propos de moi
 
-Je suis développeur et j'aime apprendre en réalisant des projets concrets.
+Je suis développeur et j'aime apprendre en réalisant des **projets concrets**.
 
-Je travaille aussi bien sur des **applications Web** que sur des **logiciels**, avec un intérêt particulier pour le développement Full-Stack.
+Je travaille sur différents types d'applications, du développement Web aux logiciels, en passant par les APIs, les bases de données et le déploiement.
 
-J'aime pouvoir travailler sur l'ensemble d'un projet :
+J'aime particulièrement comprendre un projet dans son ensemble :
 
-**Interface → Backend → Base de données → Déploiement**
+**Frontend → Backend → Base de données → Déploiement**
 
 ---
 
 ## ⚡ Technologies
 
-### 💻 Langages
+### Langages
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,php,cs,js,html,css" />
-
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-<p align="center">
+### Frameworks & développement Web
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+<p>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
-### 🧩 Frameworks
+### Bases de données
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=codeigniter,react,nodejs,fastapi" />
-
+<p>
+<img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### 🛠️ Outils
+### Outils & déploiement
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel" />
-
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
 ---
@@ -60,50 +68,55 @@ J'aime pouvoir travailler sur l'ensemble d'un projet :
 
 ## 🖥️ FileScreen
 
-Application permettant d'afficher des **images, vidéos ou textes en overlay**, avec un déclenchement depuis Discord.
+Application Windows permettant d'afficher des **images, vidéos et textes en overlay**, notamment via Discord.
 
 ### Fonctionnalités
 
-* 🎬 Images & vidéos
-* 💬 Déclenchement depuis Discord
-* 🎞️ Animations
-* 🪞 Effets visuels
+* 🎬 Affichage d'images et vidéos en temps réel
+* 💬 Déclenchement via Discord
+* 🎞️ Animations d'entrée
+* 🪞 Effets et modifications visuelles
 * 👤 Ciblage par utilisateur
-* 🔊 Sons
-* 📜 Historique
+* 🔊 Son d'annonce configurable
+* 📜 Historique des overlays
 * 🔄 Mise à jour automatique
 
 **Technologies :** Python · CustomTkinter · Discord.py · Pillow · OpenCV · FFmpeg
 
+<p>
 <a href="https://github.com/MaximeMarechal22/FileScreen">
-<img src="https://img.shields.io/badge/VOIR%20LE%20PROJET-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VOIR%20LE%20PROJET-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
 ---
 
 ## 🎁 WellCase — CaseForge
 
-Plateforme d'ouverture de caisses virtuelles utilisant une monnaie virtuelle.
+Plateforme complète d'ouverture de caisses virtuelles.
+
+Le projet propose une expérience de type **case opening**, entièrement basée sur une monnaie virtuelle.
 
 ### Fonctionnalités
 
 * 🎁 Ouverture de caisses
-* 🎲 Probabilités et raretés
+* 🎲 Probabilités et niveaux de rareté
 * 🎒 Inventaire
-* ⬆️ Améliorations
+* ⬆️ Système d'amélioration
 * 🎁 Récompenses quotidiennes
 * 🎯 Missions
 * 📜 Historique
-* 👤 Profils
-* 🛠️ Administration
+* 👤 Profil utilisateur
+* 🛠️ Panneau d'administration
+* 💰 Monnaie virtuelle
 
-**Backend :** Python · FastAPI · SQLAlchemy · SQLite · Pydantic · JWT
+### Backend
 
-**Frontend :** React · React Router · Axios · Bootstrap · CSS
+`Python` · `FastAPI` · `SQLAlchemy` · `SQLite` · `Pydantic` · `JWT`
 
-<a href="https://github.com/MaximeMarechal22">
-<img src="https://img.shields.io/badge/VOIR%20MES%20PROJETS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Frontend
+
+`React` · `React Router` · `Axios` · `Bootstrap` · `CSS`
 
 ---
 
@@ -111,17 +124,17 @@ Plateforme d'ouverture de caisses virtuelles utilisant une monnaie virtuelle.
 
 Application personnelle autour de la lecture.
 
-Le projet utilise notamment :
+Le projet mélange plusieurs technologies afin de créer une expérience plus immersive.
 
 * 📖 Gestion de lecture
-* 🌳 Jardin 3D animé
-* 🌦️ Météo
-* 🎵 Deezer
+* 🌳 Jardin 3D animé avec Three.js
+* 🌦️ Météo réelle
+* 🎵 Intégration Deezer
 * ☁️ Supabase
-* 📱 PWA
+* 📱 PWA sur iPhone
 * 🚀 Déploiement avec Vercel
 
-**Technologies :** Three.js · Supabase · PWA · APIs · Vercel
+**Technologies :** Three.js · Supabase · PWA · APIs externes · Vercel
 
 ---
 
@@ -129,13 +142,15 @@ Le projet utilise notamment :
 
 Projet réalisé dans le cadre de mon BTS autour d'une entreprise maritime fictive.
 
+Le projet est composé de deux applications complémentaires.
+
 ### 🌐 Site Web
 
-* Secteurs et traversées
+* Consultation des secteurs et traversées
 * Tarifs
 * Horaires
 * Réservations
-* Comptes utilisateurs
+* Gestion du compte
 * Historique des réservations
 
 ### 🖥️ Application d'administration
@@ -149,7 +164,7 @@ Gestion de :
 * bateaux
 * traversées
 * réservations
-* paramètres
+* paramètres du site
 
 **Technologies :** C# · PHP · CodeIgniter · MySQL · Bootstrap · Git
 
@@ -159,7 +174,9 @@ Gestion de :
 
 Projet Web réalisé autour de la gestion d'une bibliothèque.
 
-L'application permet notamment de travailler autour de la **gestion de ressources, des utilisateurs et des données**, avec une architecture orientée application Web.
+L'objectif était de concevoir une application permettant de gérer et consulter les ressources d'une bibliothèque.
+
+**Projet académique orienté développement Web et gestion de données.**
 
 ---
 
@@ -167,31 +184,13 @@ L'application permet notamment de travailler autour de la **gestion de ressource
 
 <div align="center">
 
-```text
-Frontend
-HTML5 • CSS • JavaScript • React
-
-Backend
-PHP • CodeIgniter • Python • FastAPI • C#
-
-Database
-SQL • SQLite • MySQL
-
-Tools
-Git • GitHub • Docker • Vercel
-```
-
-</div>
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaximeMarechal22&show_icons=true&hide_border=true&bg_color=111827&title_color=60A5FA&icon_color=60A5FA&text_color=E5E7EB" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeMarechal22&layout=compact&hide_border=true&bg_color=111827&title_color=60A5FA&text_color=E5E7EB" />
+| Domaine              | Technologies                              |
+| -------------------- | ----------------------------------------- |
+| **Frontend**         | HTML5 · CSS3 · JavaScript · React         |
+| **Backend**          | PHP · CodeIgniter · Python · FastAPI · C# |
+| **Bases de données** | SQL · MySQL · SQLite                      |
+| **Outils**           | Git · GitHub · Docker                     |
+| **Déploiement**      | Vercel                                    |
 
 </div>
 
@@ -201,7 +200,9 @@ Git • GitHub • Docker • Vercel
 
 Je continue à développer mes compétences à travers différents projets personnels et professionnels.
 
-Je cherche surtout à progresser en construisant des applications concrètes et en découvrant de nouvelles technologies.
+J'aime découvrir de nouvelles technologies en les utilisant directement sur des projets concrets.
+
+> **Construire → apprendre → améliorer → recommencer.**
 
 ---
 
@@ -211,6 +212,6 @@ Je cherche surtout à progresser en construisant des applications concrètes et 
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Animation"/>
+*Code • Learn • Build • Repeat*
 
 </div>
