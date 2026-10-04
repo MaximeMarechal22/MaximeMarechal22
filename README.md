@@ -1,222 +1,227 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Maxime !
-
-### 💻 Développeur • Full-Stack • Applications Web & Logiciels
-
-Je transforme des idées en **applications concrètes**, avec une préférence pour les projets où je peux toucher à toute la chaîne : conception, développement, base de données, interface et déploiement.
+<a href="https://github.com/MaximeMarechal22">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=Maxime%20Maréchal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</a>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MaximeMarechal22)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://vercel.com/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Developer+%7C+AI+%7C+Automation;Building+tools+%26+creative+software;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+working+projects." alt="Typing animation" />
+
+<br><br>
+
+<a href="https://github.com/MaximeMarechal22">
+  <img src="https://komarev.com/ghpvc/?username=MaximeMarechal22&style=for-the-badge&color=1e293b&label=PROFILE+VIEWS" />
+</a>
+&nbsp;
+<a href="https://github.com/MaximeMarechal22?tab=followers">
+  <img src="https://img.shields.io/github/followers/MaximeMarechal22?style=for-the-badge&color=1e293b&labelColor=0f172a&label=FOLLOWERS" />
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 👋 Hey, I'm Maxime
 
-Je suis développeur et j'aime surtout **apprendre en construisant**.
+I'm a developer interested in **software engineering, automation, AI and creative tools**.
 
-Je travaille sur des projets allant de petites applications personnelles à des applications web complètes avec backend, base de données, authentification, administration et déploiement.
-
-Ce que j'aime particulièrement :
-
-* 🧠 apprendre de nouvelles technologies en les utilisant sur de vrais projets
-* 🛠️ construire des applications complètes plutôt que seulement des prototypes
-* 🎨 créer des interfaces modernes et agréables à utiliser
-* 🗄️ concevoir des bases de données et des APIs
-* 🚀 mettre mes projets en ligne
-* 🔎 comprendre comment les choses fonctionnent réellement
-
-> Je préfère un projet terminé et améliorable à une idée parfaite qui reste dans un dossier.
-
----
-
-## ⚡ Technologies
-
-### Langages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-### Frameworks & outils
-
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-# 🚀 Mes projets
-
-## 🖥️ FileScreen
-
-**Application Windows permettant d'afficher des images, vidéos et textes en overlay en temps réel, notamment via Discord.**
-
-Le projet propose notamment :
-
-* 🎬 affichage d'images et vidéos en temps réel
-* 💬 déclenchement via Discord
-* 🎞️ animations d'entrée
-* 🪞 effets et modifications visuelles
-* 👤 ciblage par utilisateur
-* 🔊 son d'annonce configurable
-* 📜 historique des overlays
-* 🔄 système de mise à jour automatique
-
-**Technologies :** Python, CustomTkinter, Discord.py, Pillow, OpenCV, FFmpeg...
-
-👉 [Voir le projet](https://github.com/MaximeMarechal22/FileScreen)
-
----
-
-## 🎁 WellCase — CaseForge
-
-**Plateforme complète d'ouverture de caisses virtuelle.**
-
-Le principe est de créer une expérience de type *case opening* sans argent réel : toutes les interactions utilisent uniquement une monnaie virtuelle.
-
-Fonctionnalités :
-
-* 🎁 ouverture de caisses avec probabilités et niveaux de rareté
-* 🎒 inventaire
-* ⬆️ système d'amélioration
-* 🎁 récompenses quotidiennes
-* 🎯 missions
-* 📜 historique
-* 👤 profil utilisateur
-* 🛠️ panneau d'administration
-* 💰 système de monnaie virtuelle
-
-### Backend
-
-`Python` · `FastAPI` · `SQLAlchemy` · `SQLite` · `Pydantic` · `JWT`
-
-### Frontend
-
-`React` · `React Router` · `Axios` · `Bootstrap` · `CSS`
-
----
-
-## 📚 Nono's Book
-
-Une application personnelle autour de la lecture.
-
-Le projet mélange plusieurs technologies pour créer une expérience plus immersive :
-
-* 📖 gestion de lecture
-* 🌳 jardin 3D animé avec Three.js
-* 🌦️ météo réelle
-* 🎵 intégration Deezer
-* ☁️ Supabase
-* 📱 fonctionnement sous forme de PWA sur iPhone
-
-**Technologies :** Three.js · Supabase · PWA · APIs externes
-
----
-
-## 🚢 Atlantik
-
-Projet réalisé dans le cadre de mon BTS autour d'une entreprise maritime fictive.
-
-Le projet est composé de **deux applications complémentaires** :
-
-### 🌐 Site web
-
-Un portail permettant notamment :
-
-* consulter les secteurs et traversées
-* consulter les tarifs
-* consulter les horaires
-* réserver une traversée
-* gérer son compte
-* consulter son historique de réservations
-
-### 🖥️ Application d'administration
-
-Application Windows permettant de gérer :
-
-* secteurs
-* ports
-* routes
-* tarifs
-* bateaux
-* traversées
-* réservations
-* paramètres du site
-
-**Technologies :** C# · PHP · CodeIgniter · MySQL · Bootstrap · Git
-
----
-
-## 📖 BiblioDrive
-
-Projet de site web de bibliothèque réalisé dans le même contexte que le projet Atlantik.
-
-L'objectif était de concevoir une application web permettant de gérer et consulter les ressources d'une bibliothèque.
-
-**Projet académique orienté développement web et gestion de données.**
-
----
-
-# 🧩 Ce que j'aime développer
+I like taking an idea, figuring out how it could actually work, and turning it into something usable.
 
 ```text
-🌐 Applications Web
-🖥️ Logiciels Windows
-⚙️ APIs & Backends
-🗄️ Bases de données
-🎨 Interfaces modernes
-🤖 Automatisation
-🚀 Déploiement
-🧪 Expérimentation & nouveaux projets
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   > Building                                             │
+│   > Experimenting                                        │
+│   > Learning                                             │
+│   > Breaking things                                      │
+│   > Fixing them                                          │
+│                                                          │
+│   ████████████████████████████████████████░░  95%        │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
+
+> **Always learning. Always building.**
 
 ---
 
-# 📈 GitHub
+## 🚀 What I'm working on
+
+### 🎬 AI Video Factory
+
+A local-first **AI video generation platform** designed to automate the production of short-form content.
+
+The goal is to build a complete pipeline capable of handling:
+
+```text
+Idea
+  ↓
+Story
+  ↓
+Script
+  ↓
+Voice
+  ↓
+Subtitles
+  ↓
+Gameplay
+  ↓
+Music
+  ↓
+Emojis
+  ↓
+Rendering
+  ↓
+Final Video
+```
+
+The project is being designed around a **modular architecture**, with replaceable AI providers and a strong focus on running locally.
+
+**Main technologies**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Python` `FastAPI` `FFmpeg` `SQLite` `Redis`
+
+---
+
+## 🧪 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ FileScreen
+
+A Python project focused on file-related tooling.
+
+<a href="https://github.com/MaximeMarechal22/FileScreen">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🪄 Wand-Enhancer
+
+A C# project exploring enhancement/tooling concepts.
+
+<a href="https://github.com/MaximeMarechal22/Wand-Enhancer">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,html,css" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,fastapi,nodejs,git,github,docker" />
+</p>
+
+### Other technologies
+
+<p>
+
+![FFmpeg](https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge\&logo=ffmpeg\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+</p>
+
+---
+
+## 🧠 Currently learning
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│  ███████████████████░░░░  Software Architecture      │
+│  ██████████████████░░░░░  AI / Local Models          │
+│  █████████████████░░░░░░  Backend Development        │
+│  ████████████████░░░░░░░  Next.js / React            │
+│  ███████████████░░░░░░░░  DevOps / Infrastructure    │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+I'm particularly interested in understanding **how things work under the hood**, rather than simply making something work once.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaximeMarechal22&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaximeMarechal22&show_icons=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&ring_color=60a5fa" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeMarechal22&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeMarechal22&layout=compact&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0" />
 
 </div>
 
 ---
 
-# 🔨 Actuellement
-
-Je continue à développer mes compétences en travaillant sur des projets personnels et en expérimentant différentes technologies.
-
-Mon objectif est simple :
-
-> **Construire des projets utiles, apprendre constamment et devenir meilleur à chaque projet.**
-
----
-
-# 📬 Me contacter
-
-Tu veux discuter d'un projet, d'une idée ou simplement échanger autour du développement ?
-
-**N'hésite pas à me contacter.**
+## 📈 Contribution Graph
 
 <div align="center">
 
-### ⭐ Si un de mes projets t'intéresse, n'hésite pas à lui laisser une étoile !
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximeMarechal22&bg_color=0f172a&color=e2e8f0&line=60a5fa&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MaximeMarechal22/MaximeMarechal22/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+> **Don't just use technology. Understand it.**
 
 <br>
 
-**Merci d'être passé sur mon profil 👋**
+```text
+Learn → Experiment → Build → Break → Understand → Improve
+```
+
+</div>
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+<a href="https://github.com/MaximeMarechal22">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
