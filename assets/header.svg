@@ -1,0 +1,130 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+
+  <!-- Decorative grid -->
+  <g opacity="0.08" stroke="#ffffff">
+    <path d="M0 40H1200"/>
+    <path d="M0 80H1200"/>
+    <path d="M0 120H1200"/>
+    <path d="M0 160H1200"/>
+    <path d="M0 200H1200"/>
+
+    <path d="M100 0V220"/>
+    <path d="M200 0V220"/>
+    <path d="M300 0V220"/>
+    <path d="M400 0V220"/>
+    <path d="M500 0V220"/>
+    <path d="M600 0V220"/>
+    <path d="M700 0V220"/>
+    <path d="M800 0V220"/>
+    <path d="M900 0V220"/>
+    <path d="M1000 0V220"/>
+    <path d="M1100 0V220"/>
+  </g>
+
+  <!-- Moving light -->
+  <rect x="-300" y="0" width="300" height="220"
+        fill="url(#line)" opacity="0.12">
+    <animate
+      attributeName="x"
+      from="-300"
+      to="1200"
+      dur="7s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Decorative circles -->
+  <circle cx="1050" cy="55" r="3" fill="#60a5fa" opacity="0.8">
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1100" cy="145" r="2" fill="#93c5fd" opacity="0.8">
+    <animate attributeName="opacity"
+             values="1;0.2;1"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="950" cy="175" r="2" fill="#bfdbfe" opacity="0.7">
+    <animate attributeName="opacity"
+             values="0.2;0.9;0.2"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Main title -->
+  <text x="600" y="92"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="700">
+    Maxime Maréchal
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="132"
+        text-anchor="middle"
+        fill="#bfdbfe"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="20">
+    Développeur Full-Stack • Applications Web &amp; Logiciels
+  </text>
+
+  <!-- Accent line -->
+  <rect x="430" y="157"
+        width="340"
+        height="2"
+        rx="1"
+        fill="#60a5fa"
+        filter="url(#glow)">
+    <animate
+      attributeName="width"
+      values="180;340;180"
+      dur="4s"
+      repeatCount="indefinite"/>
+    <animate
+      attributeName="x"
+      values="510;430;510"
+      dur="4s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Small terminal indicator -->
+  <text x="600" y="188"
+        text-anchor="middle"
+        fill="#64748b"
+        font-family="monospace"
+        font-size="14">
+    &gt; code • learn • build • repeat
+  </text>
+
+</svg>
