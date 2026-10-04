@@ -1,55 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1e3a5f,100:2563eb&height=180&section=header&text=Maxime%20Maréchal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+# 👋 Salut, moi c'est Maxime !
 
-<br>
+### 💻 Développeur Full-Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Développeur+Full-Stack;Applications+Web+%26+Logiciels;Python+%7C+C%23+%7C+PHP+%7C+Java+%7C+JavaScript;Toujours+en+train+d'apprendre+et+de+construire" alt="Animation"/>
-
-<br><br>
-
-<a href="https://github.com/MaximeMarechal22">
-<img src="https://img.shields.io/github/followers/MaximeMarechal22?style=for-the-badge&logo=github&label=Followers&color=1f2937" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Développeur+Full-Stack;Applications+Web+%26+Logiciels;Python+%7C+C%23+%7C+PHP+%7C+JavaScript;Toujours+en+train+d'apprendre+et+de+construire" alt="Typing animation"/>
 
 </div>
 
 ---
 
-# 👋 Salut, moi c'est Maxime !
-
-### 💻 Développeur • Full-Stack • Applications Web & Logiciels
-
-Je transforme des idées en applications concrètes, avec une préférence pour les projets où je peux toucher à toute la chaîne : **conception, développement, base de données, interface et déploiement**.
-
-J'aime surtout apprendre en construisant et expérimenter différentes technologies sur des projets concrets.
-
----
-
 ## 🧑‍💻 À propos de moi
 
-Je travaille sur différents types de projets :
+Je suis développeur et j'aime apprendre en réalisant des projets concrets.
 
-* 🌐 Applications Web
-* 🖥️ Logiciels Windows
-* ⚙️ APIs & Backends
-* 🗄️ Bases de données
-* 🎨 Interfaces modernes
-* 🤖 Automatisation
-* 🚀 Déploiement d'applications
-* 🧪 Expérimentation de nouvelles technologies
+Je travaille aussi bien sur des **applications Web** que sur des **logiciels**, avec un intérêt particulier pour le développement Full-Stack.
 
-> **Apprendre en construisant, comprendre en expérimentant.**
+J'aime pouvoir travailler sur l'ensemble d'un projet :
+
+**Interface → Backend → Base de données → Déploiement**
 
 ---
 
-# ⚡ Technologies
+## ⚡ Technologies
 
 ### 💻 Langages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,java,cs,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,php,cs,js,html,css" />
 
 </p>
 
@@ -59,7 +38,7 @@ Je travaille sur différents types de projets :
 
 </p>
 
-### 🧩 Frameworks & bibliothèques
+### 🧩 Frameworks
 
 <p align="center">
 
@@ -67,7 +46,7 @@ Je travaille sur différents types de projets :
 
 </p>
 
-### 🛠️ Outils & environnement
+### 🛠️ Outils
 
 <p align="center">
 
@@ -81,55 +60,50 @@ Je travaille sur différents types de projets :
 
 ## 🖥️ FileScreen
 
-Application Windows permettant d'afficher des **images, vidéos ou textes en overlay** sur un écran, avec un déclenchement depuis Discord.
+Application permettant d'afficher des **images, vidéos ou textes en overlay**, avec un déclenchement depuis Discord.
 
 ### Fonctionnalités
 
-* 🎬 Images & vidéos en temps réel
+* 🎬 Images & vidéos
 * 💬 Déclenchement depuis Discord
-* 🎞️ Animations d'entrée
-* 🪞 Effets et modifications visuelles
+* 🎞️ Animations
+* 🪞 Effets visuels
 * 👤 Ciblage par utilisateur
-* 🔊 Son d'annonce configurable
-* 📜 Historique des overlays
+* 🔊 Sons
+* 📜 Historique
 * 🔄 Mise à jour automatique
 
 **Technologies :** Python · CustomTkinter · Discord.py · Pillow · OpenCV · FFmpeg
-
-<p align="center">
 
 <a href="https://github.com/MaximeMarechal22/FileScreen">
 <img src="https://img.shields.io/badge/VOIR%20LE%20PROJET-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
 ---
 
 ## 🎁 WellCase — CaseForge
 
-Plateforme complète d'ouverture de caisses virtuelles, utilisant uniquement une **monnaie virtuelle**.
+Plateforme d'ouverture de caisses virtuelles utilisant une monnaie virtuelle.
 
 ### Fonctionnalités
 
 * 🎁 Ouverture de caisses
-* 🎲 Probabilités et niveaux de rareté
+* 🎲 Probabilités et raretés
 * 🎒 Inventaire
-* ⬆️ Système d'amélioration
+* ⬆️ Améliorations
 * 🎁 Récompenses quotidiennes
 * 🎯 Missions
 * 📜 Historique
-* 👤 Profils utilisateurs
+* 👤 Profils
 * 🛠️ Administration
-* 💰 Monnaie virtuelle
 
-### Backend
+**Backend :** Python · FastAPI · SQLAlchemy · SQLite · Pydantic · JWT
 
-`Python` · `FastAPI` · `SQLAlchemy` · `SQLite` · `Pydantic` · `JWT`
+**Frontend :** React · React Router · Axios · Bootstrap · CSS
 
-### Frontend
-
-`React` · `React Router` · `Axios` · `Bootstrap` · `CSS`
+<a href="https://github.com/MaximeMarechal22">
+<img src="https://img.shields.io/badge/VOIR%20MES%20PROJETS-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
@@ -137,16 +111,17 @@ Plateforme complète d'ouverture de caisses virtuelles, utilisant uniquement une
 
 Application personnelle autour de la lecture.
 
-Le projet mélange plusieurs technologies pour créer une expérience plus immersive :
+Le projet utilise notamment :
 
 * 📖 Gestion de lecture
-* 🌳 Jardin 3D animé avec Three.js
-* 🌦️ Météo réelle
-* 🎵 Intégration Deezer
+* 🌳 Jardin 3D animé
+* 🌦️ Météo
+* 🎵 Deezer
 * ☁️ Supabase
-* 📱 Application PWA sur iPhone
+* 📱 PWA
+* 🚀 Déploiement avec Vercel
 
-**Technologies :** Three.js · Supabase · PWA · APIs externes · Vercel
+**Technologies :** Three.js · Supabase · PWA · APIs · Vercel
 
 ---
 
@@ -154,15 +129,13 @@ Le projet mélange plusieurs technologies pour créer une expérience plus immer
 
 Projet réalisé dans le cadre de mon BTS autour d'une entreprise maritime fictive.
 
-Le projet comprend deux applications complémentaires.
-
-### 🌐 Site web
+### 🌐 Site Web
 
 * Secteurs et traversées
 * Tarifs
 * Horaires
 * Réservations
-* Gestion du compte
+* Comptes utilisateurs
 * Historique des réservations
 
 ### 🖥️ Application d'administration
@@ -176,7 +149,7 @@ Gestion de :
 * bateaux
 * traversées
 * réservations
-* paramètres du site
+* paramètres
 
 **Technologies :** C# · PHP · CodeIgniter · MySQL · Bootstrap · Git
 
@@ -184,27 +157,29 @@ Gestion de :
 
 ## 📖 BiblioDrive
 
-Projet de site web de bibliothèque réalisé dans le même contexte que le projet Atlantik.
+Projet Web réalisé autour de la gestion d'une bibliothèque.
 
-L'objectif était de concevoir une application permettant de **gérer et consulter les ressources d'une bibliothèque**, avec une approche orientée développement web et gestion de données.
+L'application permet notamment de travailler autour de la **gestion de ressources, des utilisateurs et des données**, avec une architecture orientée application Web.
 
 ---
 
-# 🧩 Ce que j'aime développer
+# 🧰 Ma stack
 
 <div align="center">
 
-|      🌐 Web      |     🖥️ Logiciels    |
-| :--------------: | :------------------: |
-| Applications Web | Applications Windows |
-|       APIs       |        Outils        |
-|    Interfaces    |    Automatisation    |
+```text
+Frontend
+HTML5 • CSS • JavaScript • React
 
-|    🗄️ Données   | 🚀 Déploiement |
-| :--------------: | :------------: |
-|        SQL       |     Docker     |
-| Bases de données |     Vercel     |
-|       APIs       |  Git / GitHub  |
+Backend
+PHP • CodeIgniter • Python • FastAPI • C#
+
+Database
+SQL • SQLite • MySQL
+
+Tools
+Git • GitHub • Docker • Vercel
+```
 
 </div>
 
@@ -222,23 +197,11 @@ L'objectif était de concevoir une application permettant de **gérer et consult
 
 ---
 
-# 📈 Activité
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaximeMarechal22&bg_color=111827&color=E5E7EB&line=60A5FA&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
 # 🔨 Actuellement
 
-Je continue à développer mes compétences en travaillant sur différents projets personnels et en expérimentant de nouvelles technologies.
+Je continue à développer mes compétences à travers différents projets personnels et professionnels.
 
-Mon objectif est simple :
-
-> **Construire des projets utiles, apprendre constamment et progresser à chaque projet.**
+Je cherche surtout à progresser en construisant des applications concrètes et en découvrant de nouvelles technologies.
 
 ---
 
@@ -248,6 +211,6 @@ Mon objectif est simple :
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:111827&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Animation"/>
 
 </div>
