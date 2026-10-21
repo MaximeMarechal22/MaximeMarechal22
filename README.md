@@ -103,6 +103,8 @@ Fonctionnalités :
 
 `React` · `React Router` · `Axios` · `Bootstrap` · `CSS`
 
+👉 [Voir le projet](https://github.com/MaximeMarechal22/WellCase)
+
 ---
 
 ## 📚 Nono's Book
