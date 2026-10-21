@@ -56,6 +56,13 @@ Ce que j'aime particulièrement :
 
 # 🚀 Mes projets
 
+## 🌐 Jardins de Pan
+
+**Site Internet de l'entreprise de paysagisme Jardins de Pan.**
+
+**Technologies :** PhP, Python (affichage d'un badge avec météo et conseils), HTML5, WordPress...
+
+
 ## 🖥️ FileScreen
 
 **Application Windows permettant d'afficher des images, vidéos et textes en overlay en temps réel, notamment via Discord.**
